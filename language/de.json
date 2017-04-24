@@ -14,7 +14,7 @@
     },
     {
       "label": "Rückmeldungstext",
-      "default": "Du hast @score von @total Punkten",
+      "default": "Du hast @score von @total Punkten erreicht.",
       "description": "Rückmeldungstext, verfügbare Variablen: @score und @total. Beispiel: 'Du hast @score von @total möglichen Punkten.'"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "label": "Hintergrunddeckkraft für bewegliche Elemente",
-      "description": "Wenn dieses Feld gesetzt ist, wird dadurch die Hintergrunddeckkraft für.alle beweglichen Elemente überschrieben. Es sollte eine Zahl zwischen 0 und 100 sein, wobei 0 für vollständige Transparenz steht und 100 für keine Transparenz."
+      "description": "Wenn dieses Feld gesetzt ist, wird dadurch die Hintergrunddeckkraft für alle beweglichen Elemente überschrieben. Es sollte eine Zahl zwischen 0 und 100 sein, wobei 0 für vollständige Transparenz steht und 100 für keine Transparenz."
     },
     {
       "label": "Verhaltenseinstellungen.",
